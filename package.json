@@ -1,0 +1,13 @@
+{
+  "name": "com.jsa.tools",
+  "version": "1.0.0",
+  "displayName": "JSA Tools",
+  "description": "JSA Tools",
+  "samples": [
+    {
+      "displayName": "Инструменты",
+      "description": "Инструменты типа молотка, ножа итд.",
+      "path": "Tools"
+    }
+  ]
+}
